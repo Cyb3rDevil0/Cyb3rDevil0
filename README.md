@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a [Your Profession/Field] with a passion for [
 - **Tools:** Git, Docker, VS Code, etc.
 
 ## 📫 How to reach me
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/cyber-devil-206975334/))
+- [LinkedIn]([https://www.linkedin.com/in/cyber-devil-206975334/])
 - [Twitter](https://twitter.com/Cyb3rDevil0)
 - Email: Cyb3rDevil0@gmail.com
 
