@@ -4,19 +4,19 @@ Welcome to my GitHub profile! I'm a [Your Profession/Field] with a passion for [
 
 ## 🌱 I’m currently learning
 - [Technology/Framework 1]
-- [Technology/Framework 2]
-- [Technology/Framework 3]
+- [Hacking Tool 2]
+- [Programming | Cyber 3]
 
 ## 💼 My Skills
-- **Main** Cybersecurity
+- **Main:** Cybersecurity.
 - **Languages:** Python, JavaScript, Java, etc.
 - **Frameworks:** React, Django, Flask, etc.
 - **Tools:** Git, Docker, VS Code, etc.
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- Email: your.email@example.com
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/cyber-devil-206975334/))
+- [Twitter](https://twitter.com/Cyb3rDevil0)
+- Email: Cyb3rDevil0@gmail.com
 
 ## 🚀 My Projects
 Here are some of my notable projects:
