@@ -1,37 +1,80 @@
-# 👋 Hello, I'm Cyb3rDevil!
+👋 Hello, I’m Cyb3rDevil!
 
-Welcome to my GitHub profile! I'm a [Your Profession/Field] with a passion for [Your Interests or Specializations]. I love working on projects related to [specific technologies, languages, or areas of interest].
+I’m a Cybersecurity Enthusiast & Aspiring Penetration Tester with a strong interest in Offensive Security, Ethical Hacking, and Software Development.
 
-## 🌱 I’m currently learning
-- [Technology/Framework 1]
-- [Hacking Tool 2]
-- [Programming | Cyber 3]
+I’m an IT & Computer Engineering student at Suez Canal University, passionate about exploring vulnerabilities, understanding how systems work, and building practical security-focused projects.
 
-## 💼 My Skills
-- **Main:** Cybersecurity.
-- **Languages:** Python, JavaScript, Java, etc.
-- **Frameworks:** React, Django, Flask, etc.
-- **Tools:** Git, Docker, VS Code, etc.
+I enjoy combining programming, networking, and cybersecurity to develop solutions that solve real-world problems.
 
-## 📫 How to reach me
-- [LinkedIn]([https://www.linkedin.com/in/cyber-devil-206975334/])
-- [Twitter](https://twitter.com/Cyb3rDevil0)
-- Email: Cyb3rDevil0@gmail.com
+🌱 Currently Learning
 
-## 🚀 My Projects
-Here are some of my notable projects:
-- [Project 1](https://github.com/yourusername/project1): Brief description of Project 1.
-- [Project 2](https://github.com/yourusername/project2): Brief description of Project 2.
-- [Project 3](https://github.com/yourusername/project3): Brief description of Project 3.
+* Penetration Testing & Offensive Security
+* Ethical Hacking & Vulnerability Assessment
+* Network Security & Advanced Networking
+* Python for Cybersecurity & Automation
+* Web Application Security
+* Linux & Security Tools
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyb3rdevil&show_icons=true&theme=radical)
+💻 Technical Skills
 
-## 🔗 My Recent Blog Posts
-- [Blog Post Title 1](link-to-your-blog-post-1)
-- [Blog Post Title 2](link-to-your-blog-post-2)
-- [Blog Post Title 3](link-to-your-blog-post-3)
+* Cybersecurity: Ethical Hacking, Penetration Testing Fundamentals, Vulnerability Assessment
+* Programming: Python, C++, JavaScript
+* Networking: Computer Networks, TCP/IP, Network Fundamentals
+* AI & Machine Learning: YOLO, Computer Vision, Object Detection
+* Frameworks & Libraries: FastAPI, OpenCV, Ultralytics, MediaPipe
+* Tools & Platforms: Git, GitHub, Docker, Linux, VS Code, TryHackMe
 
----
+🚀 Featured Projects
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+* SmartInvigilator – AI-Based Smart Exam Proctoring System using Computer Vision and YOLO to detect suspicious activities during exams.
+* Padel Vision – A video analysis platform designed to analyze padel matches using AI and Computer Vision.
+* Security & Automation Projects – Practical Python-based projects focused on cybersecurity, automation, and system analysis.
+
+🎯 Career Interests
+
+* Penetration Testing
+* Red Team Operations
+* Offensive Security
+* Web Application Security
+* Security Research
+
+📚 Training & Certifications
+
+* ITI Cybersecurity Training – 132 Hours
+* Computer Network Fundamentals
+* Advanced Networking
+* Cybersecurity Essentials
+* Practical Ethical Hacking
+
+📫 Connect With Me
+
+* GitHub: @Cyb3rDevil0
+* LinkedIn: Connect with me
+* Twitter / X: @Cyb3rDevil0
+* Email: Cyb3rDevil0@gmail.com
+
+📊 GitHub Statistics
+
+⸻
+
+⚡ A Little About Me
+
+class Cyb3rDevil:
+    def __init__(self):
+        self.name = "Cyb3rDevil"
+        self.field = "Cybersecurity"
+        self.goal = "Penetration Tester"
+        self.languages = ["Python", "C++", "JavaScript"]
+        self.interests = [
+            "Ethical Hacking",
+            "Offensive Security",
+            "Computer Vision",
+            "Automation"
+        ]
+    def motto(self):
+        return "Think like an attacker. Build like an engineer."
+me = Cyb3rDevil()
+
+“Think like an attacker. Build like an engineer. Secure like a defender.”
+
+Thanks for visiting my profile! Feel free to explore my repositories, check out my projects, and connect with me. 🚀
