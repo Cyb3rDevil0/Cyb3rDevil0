@@ -1,15 +1,20 @@
- <!-- CYB3RDEVIL PROFILE README -->
+ <!-- ========================================= -->
+<!--             CYB3RDEVIL README             -->
+<!-- ========================================= -->
 <p align="center">
   <img src="./cyb3rdevil_github_banner.png" width="100%" alt="Cyb3rDevil Banner"/>
 </p>
-<h1 align="center">
-  👋 Hello, I'm <span style="color:#00ff41">Cyb3rDevil!</span>
-</h1>
+<h1 align="center">👋 Hello, I'm Cyb3rDevil!</h1>
 <h3 align="center">
-  Cybersecurity Enthusiast | Aspiring Penetration Tester | Developer
+  Cybersecurity Enthusiast | Aspiring Penetration Tester | Software Developer
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Think+like+an+attacker.;Build+like+an+engineer.;Secure+like+a+defender." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Offensive+Security;Ethical+Hacking;Penetration+Testing;Python+%26+Automation;AI+%26+Computer+Vision" alt="Typing SVG"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00ff41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Goal-Penetration%20Tester-black?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-00ff41?style=for-the-badge"/>
 </p>
 
 ⸻
@@ -18,44 +23,53 @@
 
 I’m an IT & Computer Engineering student at Suez Canal University, passionate about Cybersecurity, Ethical Hacking, and Software Development.
 
-My main goal is to become a Penetration Tester, specializing in Offensive Security, Vulnerability Assessment, and Web Application Security.
+My primary career goal is to become a Penetration Tester, with a strong interest in Offensive Security, Vulnerability Assessment, Network Security, and Web Application Security.
 
-I enjoy exploring vulnerabilities, understanding how systems and networks work, and building practical projects that combine programming, AI, and cybersecurity.
+I enjoy exploring vulnerabilities, understanding how systems work, and building practical projects that combine programming, Artificial Intelligence, and cybersecurity.
 
-* 🔐 Focus: Cybersecurity & Offensive Security
+* 🎓 Education: Information Technology & Computer Engineering (ITCE)
+* 🔐 Main Field: Cybersecurity
 * 🎯 Career Goal: Penetration Tester
-* 🏫 Education: IT & Computer Engineering – Suez Canal University
 * 💻 Programming: Python, C++, JavaScript
 * 🤖 Interests: AI, Computer Vision & Automation
-* 🌍 Learning: Always exploring new technologies and security concepts.
+* 🌱 Currently improving my practical cybersecurity skills.
 
 ⸻
 
-🛡️ Cybersecurity & Security Skills
+🛡️ Cybersecurity
 
 Areas of Interest
 
-* Penetration Testing
+<p>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-111111?style=flat-square&logo=kalilinux&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-111111?style=flat-square&logo=hackthebox&logoColor=9FEF00"/>
+  <img src="https://img.shields.io/badge/Offensive%20Security-111111?style=flat-square&logo=protonvpn&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Network%20Security-111111?style=flat-square&logo=cisco&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Web%20Security-111111?style=flat-square&logo=owasp&logoColor=white"/>
+</p>
+
+* Penetration Testing Fundamentals
 * Ethical Hacking
-* Offensive Security
 * Vulnerability Assessment
-* Web Application Security
 * Network Security
+* Web Application Security
+* Offensive Security
 * Red Team Operations
-* Security Research
 * Linux Security
+* Security Research
 
 ⸻
 
 💻 Programming Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,js" />
 </p>
 
-* Python – Automation, AI & Security Projects
-* C++ – Programming Fundamentals
-* JavaScript – Web Development Fundamentals
+Language	Focus
+Python	Automation, AI, Computer Vision & Security Projects
+C++	Programming & Problem Solving
+JavaScript	Web Development Fundamentals
 
 ⸻
 
@@ -72,9 +86,10 @@ Backend Development
 * Redis
 * Celery
 * REST APIs
-* JWT & Refresh Tokens
+* JWT Authentication
+* Refresh Tokens
 
-AI & Computer Vision
+AI & Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
@@ -88,15 +103,16 @@ AI & Computer Vision
 * Roboflow
 * Object Detection
 * Computer Vision
+* Deep Learning Fundamentals
 
 Security Architecture
 
-* JWT Authentication
-* Refresh Token Management
+* JWT Authentication & Refresh Tokens
 * Multi-Factor Authentication (MFA)
 * Role-Based Access Control (RBAC)
 * Device & Session Management
-* Encrypted Local Video Storage
+* Encrypted Local Storage
+* Secure API Design
 
 ⸻
 
@@ -106,24 +122,38 @@ Security Architecture
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,pycharm,apple" />
 </p>
 
+Development & Environment
+
 * Git & GitHub
 * Docker & Docker Compose
 * Linux
 * macOS
 * VS Code
 * PyCharm
-* TryHackMe
+* Python Virtual Environments
+
+AI & Data Tools
+
+* Ultralytics YOLO
 * Roboflow
+* OpenCV
+* MediaPipe
+* Jupyter Notebook
+
+Cybersecurity Learning Platforms
+
+* TryHackMe
+* Practical Ethical Hacking Labs
 
 ⸻
 
 🚀 Featured Projects
 
-1. SmartInvigilator
+🛡️ SmartInvigilator
 
 AI-Based Smart Exam Proctoring System
 
-An AI-powered exam monitoring system designed to assist human supervisors in detecting potentially suspicious activities during examinations.
+An intelligent exam monitoring system that uses Computer Vision and AI to assist human supervisors in identifying potentially suspicious activities during examinations.
 
 Technologies:
 
@@ -131,6 +161,7 @@ Technologies:
 * YOLO
 * OpenCV
 * MediaPipe
+* PyTorch
 * Computer Vision
 
 Key Features:
@@ -140,9 +171,13 @@ Key Features:
 * Head movement analysis
 * Gaze and glance detection
 * Multi-signal suspicion scoring
-* Automated reports and snapshots
+* Snapshots and review reports
 
-2. Padel Vision
+The system is designed to assist human supervisors, not automatically accuse students.
+
+⸻
+
+🎾 Padel Vision
 
 AI-Based Padel Video Analysis Platform
 
@@ -150,29 +185,39 @@ A platform designed to analyze uploaded padel match videos using Artificial Inte
 
 Technologies & Architecture:
 
-* Python & FastAPI
+* Python
+* FastAPI
 * PostgreSQL
-* Redis & Celery
+* Redis
+* Celery
 * Computer Vision
 * Video Processing
-* JWT Authentication
-* MFA & RBAC
+
+Security Architecture:
+
+* JWT & Refresh Tokens
+* MFA
+* RBAC
+* Device & Session Management
+* Encrypted Local Video Storage
 
 Planned Features:
 
-* Video upload and processing
-* Background analysis tasks
+* Video uploading
+* Background analysis processing
 * Analysis progress tracking
 * Match insights and statistics
-* Secure account and session management
-
-3. Cybersecurity & Automation
-
-Practical Python projects focused on cybersecurity concepts, automation, and system analysis.
+* Secure user authentication
 
 ⸻
 
-📚 Currently Learning
+🐍 Cybersecurity & Automation
+
+Practical Python-based projects focused on cybersecurity concepts, automation, scripting, and system analysis.
+
+⸻
+
+🌱 Currently Learning
 
 * Penetration Testing & Offensive Security
 * Ethical Hacking
@@ -182,6 +227,7 @@ Practical Python projects focused on cybersecurity concepts, automation, and sys
 * Python for Cybersecurity
 * Linux & Security Tools
 * AI & Deep Learning
+* Computer Vision
 
 ⸻
 
@@ -189,13 +235,14 @@ Practical Python projects focused on cybersecurity concepts, automation, and sys
 
 ITI – Cybersecurity Training
 
-* Duration: 132 Hours
+132 Hours
+
 * Computer Network Fundamentals
 * Advanced Networking
 * Cybersecurity Essentials
 * Practical Ethical Hacking
 
-University
+University Education
 
 Suez Canal University – Faculty of Engineering
 
@@ -203,22 +250,25 @@ Information Technology & Computer Engineering (ITCE)
 
 ⸻
 
-📊 GitHub Statistics
+🎯 Career Interests
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Cyb3rDevil0&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3rDevil0&layout=compact&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Cyb3rDevil0&theme=radical&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-00ff41?style=for-the-badge&logo=kalilinux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Red%20Team-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Offensive%20Security-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web%20Security-111111?style=for-the-badge"/>
 </p>
 
 ⸻
 
-🐍 Contribution Activity
+📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cyb3rDevil0/Cyb3rDevil0/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Cyb3rDevil0&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3rDevil0&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Cyb3rDevil0&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ⸻
@@ -249,17 +299,35 @@ class Cyb3rDevil:
         self.name = "Cyb3rDevil"
         self.field = "Cybersecurity"
         self.goal = "Penetration Tester"
+        self.education = "IT & Computer Engineering"
         self.languages = [
             "Python",
             "C++",
             "JavaScript"
         ]
+        self.technologies = [
+            "FastAPI",
+            "PostgreSQL",
+            "Redis",
+            "YOLO",
+            "OpenCV",
+            "MediaPipe",
+            "PyTorch"
+        ]
+        self.tools = [
+            "Git",
+            "GitHub",
+            "Docker",
+            "Linux",
+            "TryHackMe",
+            "Roboflow"
+        ]
         self.interests = [
             "Ethical Hacking",
             "Offensive Security",
+            "Network Security",
             "Computer Vision",
-            "Automation",
-            "Network Security"
+            "Automation"
         ]
         self.projects = [
             "SmartInvigilator",
@@ -270,6 +338,9 @@ class Cyb3rDevil:
 if __name__ == "__main__":
     me = Cyb3rDevil()
     print(me.motto())
+
+⸻
+
 <h2 align="center">
   ⚡ Think like an attacker.
   <br/>
@@ -280,6 +351,6 @@ if __name__ == "__main__":
 <p align="center">
   <b>Thanks for visiting my profile! 🚀</b>
   <br/>
-  Explore my repositories and let's connect.
+  Explore my repositories, check out my projects, and let's connect.
 </p>
-<!-- END OF CYB3RDEVIL PROFILE README --> 
+<!-- END OF CYB3RDEVIL PROFILE README -->
